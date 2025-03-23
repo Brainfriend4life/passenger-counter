@@ -50,8 +50,14 @@ p {
     color: white;
     border-style: solid;
     background-color: black;
-   width: 50%;
+   width: fit-content;
    margin-left: 11em;
    position: relative;
-   display: block;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   margin-top: 5em;
+   margin: 0 auto;
+
 }
