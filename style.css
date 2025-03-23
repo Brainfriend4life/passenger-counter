@@ -5,6 +5,7 @@ body {
      Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
      font-weight: bold;
      text-align: center;
+     background-repeat: no-repeat;
 
 }
 h1 {
@@ -39,5 +40,12 @@ button {
 }
 p {
     font-size: 30px;
-    
+    color: rgb(58, 4, 4);
+    border: solid;
+    border-color: red;
+    color: white;
+    border-style: solid;
+    background-color: black;
+   width: 50%;
+   margin-left: 11em;
 }
