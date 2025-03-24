@@ -16,7 +16,6 @@ function save() {
     document.getElementById("count-el").textContent = count;
     console.log(count)
 }
-let message = "you have logged"
-console.log(messageToUser)
+
 
 
